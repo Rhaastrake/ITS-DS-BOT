@@ -1,4 +1,5 @@
 target/
+out/
 .env
 !**EXAMPLE.env
 !.mvn/wrapper/maven-wrapper.jar
